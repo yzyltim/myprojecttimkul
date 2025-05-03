@@ -1,1 +1,3 @@
-print("potuzhno")
+a = int(input("Ведіть перше число: "))
+b = int(input("Ведіть друге число: "))
+print("Сума: ", a + b)
